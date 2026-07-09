@@ -72,7 +72,7 @@ def generate_svg(rows, total_solved, total_problems):
         bar_color = "#5fc7b8" if solved > 0 else "#232633"
         check = "✓" if solved == total else ""
 
-        lines.append(f'<text class="row-label" x="24" y="{y + 18}">{check} {name}</text>')
+        lines.append(f'<text class="row-label" x="24" y="{y + 18}">{check} {name.replace("&", "&amp;")}</text>')
         lines.append(f'<rect x="280" y="{y + 9}" width="120" height="5" rx="2.5" fill="#232633"/>')
         if pw > 0:
             lines.append(f'<rect x="280" y="{y + 9}" width="{pw}" height="5" rx="2.5" fill="{bar_color}"/>')
