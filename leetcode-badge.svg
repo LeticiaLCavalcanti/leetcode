@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="476" viewBox="0 0 540 476">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .title { font-size: 16px; font-weight: 600; fill: #e9e7e2; }
+  .sub { font-size: 12px; fill: #97969f; }
+  .row-label { font-size: 12px; fill: #c2c0b6; }
+  .row-count { font-size: 11px; fill: #97969f; font-family: "SF Mono", Consolas, monospace; }
+</style>
+<rect width="540" height="476" rx="10" fill="#15161b" stroke="#2c2f3d" stroke-width="1"/>
+<text class="title" x="24" y="36">leetcode.log</text>
+<text class="sub" x="24" y="56">1/61 solved · 2% · prepping for interviews</text>
+<rect x="24" y="68" width="440" height="6" rx="3" fill="#232633"/>
+<rect x="24" y="68" width="7" height="6" rx="3" fill="#5fc7b8"/>
+<text class="row-label" x="24" y="108"> Arrays & Hashing</text>
+<rect x="280" y="99" width="120" height="5" rx="2.5" fill="#232633"/>
+<rect x="280" y="99" width="20" height="5" rx="2.5" fill="#5fc7b8"/>
+<text class="row-count" x="410" y="108">1/6</text>
+<text class="row-label" x="24" y="136"> Two Pointers</text>
+<rect x="280" y="127" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="136">0/5</text>
+<text class="row-label" x="24" y="164"> Sliding Window</text>
+<rect x="280" y="155" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="164">0/5</text>
+<text class="row-label" x="24" y="192"> Stack</text>
+<rect x="280" y="183" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="192">0/4</text>
+<text class="row-label" x="24" y="220"> Binary Search</text>
+<rect x="280" y="211" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="220">0/5</text>
+<text class="row-label" x="24" y="248"> Linked List</text>
+<rect x="280" y="239" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="248">0/6</text>
+<text class="row-label" x="24" y="276"> Trees</text>
+<rect x="280" y="267" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="276">0/7</text>
+<text class="row-label" x="24" y="304"> Heap / Priority Queue</text>
+<rect x="280" y="295" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="304">0/4</text>
+<text class="row-label" x="24" y="332"> Backtracking</text>
+<rect x="280" y="323" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="332">0/4</text>
+<text class="row-label" x="24" y="360"> Graphs</text>
+<rect x="280" y="351" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="360">0/5</text>
+<text class="row-label" x="24" y="388"> Dynamic Programming</text>
+<rect x="280" y="379" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="388">0/6</text>
+<text class="row-label" x="24" y="416"> Intervals & Greedy</text>
+<rect x="280" y="407" width="120" height="5" rx="2.5" fill="#232633"/>
+<text class="row-count" x="410" y="416">0/4</text>
+</svg>
