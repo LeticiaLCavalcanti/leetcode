@@ -8,13 +8,13 @@
 </style>
 <rect width="540" height="476" rx="10" fill="#15161b" stroke="#2c2f3d" stroke-width="1"/>
 <text class="title" x="24" y="36">leetcode.log</text>
-<text class="sub" x="24" y="56">2/61 solved · 3% · prepping for interviews</text>
+<text class="sub" x="24" y="56">3/61 solved · 5% · prepping for interviews</text>
 <rect x="24" y="68" width="440" height="6" rx="3" fill="#232633"/>
-<rect x="24" y="68" width="14" height="6" rx="3" fill="#5fc7b8"/>
+<rect x="24" y="68" width="22" height="6" rx="3" fill="#5fc7b8"/>
 <text class="row-label" x="24" y="108"> Arrays &amp; Hashing</text>
 <rect x="280" y="99" width="120" height="5" rx="2.5" fill="#232633"/>
-<rect x="280" y="99" width="40" height="5" rx="2.5" fill="#5fc7b8"/>
-<text class="row-count" x="410" y="108">2/6</text>
+<rect x="280" y="99" width="60" height="5" rx="2.5" fill="#5fc7b8"/>
+<text class="row-count" x="410" y="108">3/6</text>
 <text class="row-label" x="24" y="136"> Two Pointers</text>
 <rect x="280" y="127" width="120" height="5" rx="2.5" fill="#232633"/>
 <text class="row-count" x="410" y="136">0/5</text>
