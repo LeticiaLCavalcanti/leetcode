@@ -2,19 +2,19 @@
 // Difficulty: Easy
 // Pattern: Arrays & Hashing
 //
-// Approach: 
+// Approach:
 // Time: O(n) | Space: O(n)
 
-const containsDuplicate = function(nums) {
-    const seen = new Set();
-    
-    for (const num of nums) {
-        if (seen.has(num)) {
-            return true;
-        }
-        seen.add(num);
+const containsDuplicate = function (nums) {
+  const seen = new Set();
+
+  for (const num of nums) {
+    if (seen.has(num)) {
+      return true;
     }
-    return false;
+    seen.add(num);
+  }
+  return false;
 };
 
 // Alternative approach using Set constructor

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/group-anagrams/
-// Difficulty: Easy
+// Difficulty: Medium
 // Pattern: Arrays & Hashing
 //
 // Approach: sort each word's letters to create a key — anagrams

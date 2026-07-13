@@ -7,7 +7,7 @@
 // Map preserves key types and guarantees O(1) lookup.
 // Time: O(n) | Space: O(n)
 
-const twoSum = function(nums, target) {
+const twoSum = function (nums, target) {
   let map = new Map();
 
   for (let i = 0; i < nums.length; i++) {
