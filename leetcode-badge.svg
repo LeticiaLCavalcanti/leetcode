@@ -8,17 +8,17 @@
 </style>
 <rect width="540" height="476" rx="10" fill="#15161b" stroke="#2c2f3d" stroke-width="1"/>
 <text class="title" x="24" y="36">leetcode.log</text>
-<text class="sub" x="24" y="56">8/61 solved · 13% · prepping for interviews</text>
+<text class="sub" x="24" y="56">9/61 solved · 15% · prepping for interviews</text>
 <rect x="24" y="68" width="440" height="6" rx="3" fill="#232633"/>
-<rect x="24" y="68" width="58" height="6" rx="3" fill="#5fc7b8"/>
+<rect x="24" y="68" width="65" height="6" rx="3" fill="#5fc7b8"/>
 <text class="row-label" x="24" y="108">✓ Arrays &amp; Hashing</text>
 <rect x="280" y="99" width="120" height="5" rx="2.5" fill="#232633"/>
 <rect x="280" y="99" width="120" height="5" rx="2.5" fill="#5fc7b8"/>
 <text class="row-count" x="410" y="108">6/6</text>
 <text class="row-label" x="24" y="136"> Two Pointers</text>
 <rect x="280" y="127" width="120" height="5" rx="2.5" fill="#232633"/>
-<rect x="280" y="127" width="48" height="5" rx="2.5" fill="#5fc7b8"/>
-<text class="row-count" x="410" y="136">2/5</text>
+<rect x="280" y="127" width="72" height="5" rx="2.5" fill="#5fc7b8"/>
+<text class="row-count" x="410" y="136">3/5</text>
 <text class="row-label" x="24" y="164"> Sliding Window</text>
 <rect x="280" y="155" width="120" height="5" rx="2.5" fill="#232633"/>
 <text class="row-count" x="410" y="164">0/5</text>
